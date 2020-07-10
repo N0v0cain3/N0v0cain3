@@ -1,12 +1,12 @@
 ### Hi there 👋
 
 
-- <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width=25 height=25> I’m currently working on Node 🚀 and Deno 🦕<br>
-- <img src="https://i.pinimg.com/originals/f5/5e/80/f55e8059ea945abfd6804b887dd4a0af.gif" width=30 height=30>I’m currently learning Docker and AWS<br>
-- <img src="https://media0.giphy.com/media/pylpD8AoQCf3CQ1oO2/giphy.gif" width=30 height=30> I’m looking to collaborate on some cool project ideas<br>
-- 💬 Ask me about Node<br>
-- 😄 Pronouns: Backend Developer<br>
-- ⚡ Fun fact: I have a very selective memory<br>
+- <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width=25 height=25> <h4>I’m currently working on Node 🚀 and Deno 🦕</h4><br>
+- <img src="https://i.pinimg.com/originals/f5/5e/80/f55e8059ea945abfd6804b887dd4a0af.gif" width=30 height=30><h4>I’m currently learning Docker and AWS</h4><br>
+- <img src="https://media0.giphy.com/media/pylpD8AoQCf3CQ1oO2/giphy.gif" width=30 height=30><h4> I’m looking to collaborate on some cool project ideas</h4><br>
+- 💬 <h4>Ask me about Node and Deno </h4><br>
+- 😄<h4> Pronouns: Backend Developer</h4><br>
+- ⚡ <h4>Fun fact: I have a very selective memory</h4><br>
 - 📫 You can reach me on: 
 
 
@@ -14,4 +14,54 @@
 Invite me to connect on [LinkedIn](https://www.linkedin.com/in/shivam-mehta-b09724189).<hr>
 [![Twitter Follow](https://img.shields.io/twitter/follow/N0v0cain3?style=social)](https://twitter.com/N0v0cain3)
  [![Instagram](https://img.shields.io/badge/Instagram-follow-purple.svg?logo=instagram&logoColor=white)](https://www.instagram.com/shivamlikesbreathing/) [![Medium](https://img.shields.io/badge/Medium-follow-black.svg?logo=medium&logoColor=white)](https://medium.com/@N0v0cain3)
+
+
+
+## My Tech Stack
+
+<table>
+  <tbody>
+    <tr valign="top">
+      <td width="25%" align="center">
+	      <span><strong>AWS</strong></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/aws.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><strong>Deno</strong></span><br><br><br>
+        <img height="64px" src="https://github.com/denolib/high-res-deno-logo/blob/master/deno_hr_circle.png">
+      </td>
+      <td width="25%" align="center">
+        <span><strong>JavaScript</strong></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><strong>Node.Js</strong></span><br><br><br>
+        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg">
+      </td>
+    </tr>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span><strong>Docker</strong></span><br><br><br>
+        <img height="64px" src="https://www.docker.com/sites/default/files/d8/styles/role_icon/public/2019-07/Docker-Logo-White-RGB_Vertical-BG_0.png?itok=8Tuac9I3">
+      </td>
+      <td width="25%" align="center">
+        <span><strong>Html 5</strong></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><strong>Git</strong></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><strong>BootStrap</strong></span><br><br><br>
+        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/768px-Bootstrap_logo.svg.png">
+      </td>
+    </tr>
+
+  </tbody>
+</table>
+
+![Shivam's github stats](https://github-readme-stats.vercel.app/api?username=N0v0cain3&show_icons=true&hide_border=true)
+
+<br>
 
