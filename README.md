@@ -63,7 +63,7 @@ Invite me to connect on [LinkedIn](https://www.linkedin.com/in/shivam-mehta-b097
 
 
 ![Shivam's github stats](https://github-readme-stats.vercel.app/api/?username=N0v0cain3&show_icons=true&title_color=ffd1dc&icon_color=79ff97&text_color=ffd1dc&bg_color=151515)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=N0v0cain3)]<br>
 ![VisitorCount](https://profile-counter.glitch.me/N0v0cain3/count.svg)
-<br>
+
 
