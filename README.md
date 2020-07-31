@@ -68,5 +68,5 @@ Invite me to connect on [LinkedIn](https://www.linkedin.com/in/shivam-mehta-b097
 <br><br>
 <div align="center">
 
-[![State-of-the-art Shitcode](https://img.shields.io/static/v1?label=State-of-the-art&message=Shitcode&color=7B5804)](https://github.com/trekhleb/state-of-the-art-shitcode)
+[![State-of-the-art Shitcode](https://img.shields.io/static/v1?label=State-of-the-art&message=Shitcode&color=7B5804)](https://github.com/N0v0cain3)
 </div>
