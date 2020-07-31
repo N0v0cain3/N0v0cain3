@@ -51,7 +51,7 @@ Invite me to connect on [LinkedIn](https://www.linkedin.com/in/shivam-mehta-b097
       <td width="25%" align="center">
         <span><strong>Git</strong></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
-      </td>
+      </td>'
       <td width="25%" align="center">
         <span><strong>BootStrap</strong></span><br><br><br>
         <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/768px-Bootstrap_logo.svg.png">
@@ -65,5 +65,8 @@ Invite me to connect on [LinkedIn](https://www.linkedin.com/in/shivam-mehta-b097
 ![Shivam's github stats](https://github-readme-stats.vercel.app/api/?username=N0v0cain3&show_icons=true&title_color=ffd1dc&icon_color=79ff97&text_color=ffd1dc&bg_color=151515)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=N0v0cain3)<br>
 ![VisitorCount](https://profile-counter.glitch.me/N0v0cain3/count.svg)
+<br><br>
+<div align="center">
 
-
+[![State-of-the-art Shitcode](https://img.shields.io/static/v1?label=State-of-the-art&message=Shitcode&color=7B5804)](https://github.com/trekhleb/state-of-the-art-shitcode)
+</div>
