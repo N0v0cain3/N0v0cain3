@@ -1,10 +1,9 @@
 ### Hi there 👋
 
 
-- <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width=25 height=25><strong> I’m currently working on Node 🚀 and AWS <br>
-- <img src="https://i.pinimg.com/originals/f5/5e/80/f55e8059ea945abfd6804b887dd4a0af.gif" width=30 height=30>I’m currently learning Docker and AWS<br>
-- <img src="https://media0.giphy.com/media/pylpD8AoQCf3CQ1oO2/giphy.gif" width=30 height=30> I’m looking to collaborate on some cool project ideas<br>
-- 💬 Ask me about Node and Deno <br>
+- <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width=25 height=25><strong> I’m currently working on Node 🚀 and DevOps<br>
+- <img src="https://i.pinimg.com/originals/f5/5e/80/f55e8059ea945abfd6804b887dd4a0af.gif" width=30 height=30>I’m currently learning GoLang and DevOps<br>
+- 💬 Ask me about system architecture/designs, Backend development <br>
 - 😄 Pronouns: Backend Developer<br>
 - ⚡ Fun fact: I have a very selective memory</strong><br>
 - 📫 You can reach me on: 
@@ -64,7 +63,13 @@ Invite me to connect on [LinkedIn](https://www.linkedin.com/in/shivam-mehta-b097
 
 ![Shivam's github stats](https://github-readme-stats.vercel.app/api/?username=N0v0cain3&show_icons=true&title_color=ffd1dc&icon_color=79ff97&text_color=ffd1dc&bg_color=151515)
 
+<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
+### Spotify Playing 🎧
+
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/31vieeypo7zfxwpwmo7yhyaqzw3q)
+
+---
 <br><br>
 <div align="center">
 
