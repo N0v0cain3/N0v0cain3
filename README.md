@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width=25 height=25><strong> I’m currently working on Node 🚀 and DevOps<br>
+- <img src="https://gist.github.com/GeekTree0101/05d338bb59109fc71871711c6fa49377/raw/3ff868ffcf2f84d419c392667335fe7e9f1bf155/dancing-gopher.gif" width=25 height=25><strong> I’m currently working on GoLang and DevOps<br>
 - <img src="https://i.pinimg.com/originals/f5/5e/80/f55e8059ea945abfd6804b887dd4a0af.gif" width=30 height=30>I’m currently learning GoLang and React.js<br>
 - 💬 Ask me about system architecture/designs, Backend development <br>
 - 😄 Pronouns: Backend Developer<br>
