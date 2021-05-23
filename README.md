@@ -2,9 +2,9 @@
 
 
 - <img src="https://gist.github.com/GeekTree0101/05d338bb59109fc71871711c6fa49377/raw/3ff868ffcf2f84d419c392667335fe7e9f1bf155/dancing-gopher.gif" width=25 height=25><strong> I’m currently working on GoLang and DevOps<br>
-- <img src="https://i.pinimg.com/originals/f5/5e/80/f55e8059ea945abfd6804b887dd4a0af.gif" width=30 height=30>I’m currently learning GoLang and React.js<br>
+- <img src="https://media1.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp?cid=ecf05e4738j93oyh3h3jasxmeis5jyt0avnmkz236xwcqgim&rid=200w.webp&ct=s" width=30 height=30>I’m currently learning GoLang and React.js<br>
 - 💬 Ask me about system architecture/designs, Backend development <br>
-- 😄 Pronouns: Backend Developer<br>
+- 😄 Pronouns: Fool Stacker<br>
 - ⚡ Fun fact: I have a very selective memory</strong><br>
 - 📫 You can reach me on: 
 
@@ -26,8 +26,8 @@ Invite me to connect on [LinkedIn](https://www.linkedin.com/in/shivam-mehta-b097
         <img height="64px" src="https://cdn.svgporn.com/logos/aws.svg">
       </td>
       <td width="25%" align="center">
-        <span><strong>Deno</strong></span><br><br><br>
-        <img height="64px" src="https://github.com/denolib/high-res-deno-logo/blob/master/deno_hr_circle.png">
+        <span><strong>Go</strong></span><br><br><br>
+        <img height="64px" src="https://gist.github.com/GeekTree0101/05d338bb59109fc71871711c6fa49377/raw/3ff868ffcf2f84d419c392667335fe7e9f1bf155/dancing-gopher.gif">
       </td>
       <td width="25%" align="center">
         <span><strong>JavaScript</strong></span><br><br><br>
@@ -35,7 +35,7 @@ Invite me to connect on [LinkedIn](https://www.linkedin.com/in/shivam-mehta-b097
       </td>
       <td width="25%" align="center">
         <span><strong>Node.Js</strong></span><br><br><br>
-        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg">
+        <img height="64px" src="https://media4.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp?cid=ecf05e4738j93oyh3h3jasxmeis5jyt0avnmkz236xwcqgim&rid=giphy.webp&ct=s">
       </td>
     </tr>
     <tr valign="top">
@@ -44,16 +44,16 @@ Invite me to connect on [LinkedIn](https://www.linkedin.com/in/shivam-mehta-b097
         <img height="64px" src="https://www.docker.com/sites/default/files/d8/styles/role_icon/public/2019-07/Docker-Logo-White-RGB_Vertical-BG_0.png?itok=8Tuac9I3">
       </td>
       <td width="25%" align="center">
-        <span><strong>Html 5</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
+        <span><strong>ReactJs</strong></span><br><br><br>
+        <img height="64px" src="https://media1.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp?cid=ecf05e4738j93oyh3h3jasxmeis5jyt0avnmkz236xwcqgim&rid=200w.webp&ct=s">
       </td>
       <td width="25%" align="center">
-        <span><strong>Git</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
+        <span><strong>GitHub </strong></span><br><br><br>
+        <img height="64px" src="https://media4.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp?cid=ecf05e4738j93oyh3h3jasxmeis5jyt0avnmkz236xwcqgim&rid=200.webp&ct=s">
       </td>'
       <td width="25%" align="center">
-        <span><strong>BootStrap</strong></span><br><br><br>
-        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/768px-Bootstrap_logo.svg.png">
+        <span><strong>MongoDB</strong></span><br><br><br>
+        <img height="64px" src="https://media0.giphy.com/media/wgFWLRiND4bkyYR4IN/200w.webp?cid=ecf05e4738j93oyh3h3jasxmeis5jyt0avnmkz236xwcqgim&rid=200w.webp&ct=s">
       </td>
     </tr>
 
