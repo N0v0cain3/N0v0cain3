@@ -17,7 +17,6 @@ Invite me to connect on [LinkedIn](https://www.linkedin.com/in/shivam-mehta-b097
 
 
 ## My Tech Stack
-
 <table>
   <tbody>
     <tr valign="top">
@@ -50,7 +49,7 @@ Invite me to connect on [LinkedIn](https://www.linkedin.com/in/shivam-mehta-b097
       <td width="25%" align="center">
         <span><strong>GitHub </strong></span><br><br><br>
         <img height="64px" src="https://media4.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp?cid=ecf05e4738j93oyh3h3jasxmeis5jyt0avnmkz236xwcqgim&rid=200.webp&ct=s">
-      </td>'
+      </td>
       <td width="25%" align="center">
         <span><strong>MongoDB</strong></span><br><br><br>
         <img height="64px" src="https://media0.giphy.com/media/wgFWLRiND4bkyYR4IN/200w.webp?cid=ecf05e4738j93oyh3h3jasxmeis5jyt0avnmkz236xwcqgim&rid=200w.webp&ct=s">
