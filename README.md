@@ -1,11 +1,4 @@
 ### Hi there 👋
-
-
-- <img src="https://gist.github.com/GeekTree0101/05d338bb59109fc71871711c6fa49377/raw/3ff868ffcf2f84d419c392667335fe7e9f1bf155/dancing-gopher.gif" width=25 height=25><strong> I’m currently working on GoLang and DevOps<br>
-- <img src="https://media1.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp?cid=ecf05e4738j93oyh3h3jasxmeis5jyt0avnmkz236xwcqgim&rid=200w.webp&ct=s" width=30 height=30>I’m currently learning GoLang and React.js<br>
-
-
-
 Invite me to connect on [LinkedIn](https://www.linkedin.com/in/shivam-mehta-b09724189).<hr>
 [![Twitter Follow](https://img.shields.io/twitter/follow/N0v0cain3?style=social)](https://twitter.com/N0v0cain3)
  [![Instagram](https://img.shields.io/badge/Instagram-follow-purple.svg?logo=instagram&logoColor=white)](https://www.instagram.com/shivamlikesbreathing/) [![Medium](https://img.shields.io/badge/Medium-follow-black.svg?logo=medium&logoColor=white)](https://medium.com/@N0v0cain3)
