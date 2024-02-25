@@ -3,10 +3,6 @@
 
 - <img src="https://gist.github.com/GeekTree0101/05d338bb59109fc71871711c6fa49377/raw/3ff868ffcf2f84d419c392667335fe7e9f1bf155/dancing-gopher.gif" width=25 height=25><strong> I’m currently working on GoLang and DevOps<br>
 - <img src="https://media1.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp?cid=ecf05e4738j93oyh3h3jasxmeis5jyt0avnmkz236xwcqgim&rid=200w.webp&ct=s" width=30 height=30>I’m currently learning GoLang and React.js<br>
-- 💬 Ask me about system architecture/designs, Backend development <br>
-- 😄 Pronouns: Fool Stacker<br>
-- ⚡ Fun fact: I have a very selective memory</strong><br>
-- 📫 You can reach me on: 
 
 
 
